@@ -1,0 +1,2 @@
+# Secure-AWS-VPC-Network-Architecture
+Building a secure cloud network, by using Amazon Web Services, specifically Amazon's VPC; with isolated public and private subnets. Configured Security Groups and Network ACLs, only enforce controlled access between different network, while using gateways to manage traffic securely. Enabled logging to monitor and validate all network security.
